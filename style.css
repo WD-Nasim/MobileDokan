@@ -1,0 +1,142 @@
+
+
+.col-1{
+    width: 8.33%;
+    
+   
+}
+
+.col-2{
+    width: 16.66%;
+   
+   
+
+  
+   
+}
+
+.col-3{
+    width: 25%;
+    
+
+}
+
+.col-4{
+    width: 33.33%;
+
+}
+
+.col-5{
+    width: 41.66%;
+   
+}
+
+.col-6{
+    width: 50%;
+}
+
+.col-7{
+    width: 58.33px;
+   
+}
+
+.col-8{
+    width: 66.66%;
+}
+
+.col-9{
+    width: 75%;
+    
+}
+
+.col-10{
+    width: 83.33%;
+    
+
+}
+
+.col-11{
+    width: 91.66%;
+}
+
+.col-12{
+    width: 100%;
+    
+}
+
+[class*= col-] {
+float: left;
+text-align: center;
+background-color: #24292e;
+box-sizing: border-box;
+}
+
+
+
+.imgH{
+    height: 340px;
+}
+
+.peRa{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin-top: 10px;
+  
+   
+}
+.peRa2{
+    text-align: center;
+    color: rgb(153, 153, 153);
+    margin-top: -15px;
+    font-size: small;
+
+}
+
+
+
+
+
+.logo-{
+    width: 16.66%;
+    height: 55px;
+    float: left;
+    background-color: black;
+    box-sizing: border-box;
+}
+
+
+
+
+
+.banner-{
+    width: 83.33%;
+    height: 55px;
+    float: left;
+    background-color: black;
+    box-sizing: border-box;
+}
+
+ul{
+    list-style: none;
+}
+
+ul li{
+    float: left;
+    padding-left: 30px;
+
+}
+
+
+ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    font-family:sans-serif;
+}
+
+ul li a:hover{
+    color: rgb(40, 107, 207);
+
+}
+img{
+    border: 1px solid red;
+}
